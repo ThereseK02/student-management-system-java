@@ -150,6 +150,48 @@ student-management-system-java/
 
 ```
 
+
+
+\---
+
+
+
+\## Console Output Screenshots
+
+
+
+\### Console Output 1
+
+
+
+!\[Console Output 1](./screenshots/console\_output1.png)
+
+
+
+\### Console Output 2
+
+
+
+!\[Console Output 2](./screenshots/console\_output2.png)
+
+
+
+\### Console Output 3
+
+
+
+!\[Console Output 3](./screenshots/console\_output3.png)
+
+
+
+\### Console Output 4
+
+
+
+!\[Console Output 4](./screenshots/console\_output4.png)
+
+
+
 \---
 
 
