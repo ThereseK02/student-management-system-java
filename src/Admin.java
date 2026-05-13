@@ -1,5 +1,6 @@
 /**
  * Defines the Admin role for the Student Management System.
+ *
  * The Admin class extends User and provides academic analytics features, including GPA forecasting and student performance reporting.
  *
  * Author: Therese Kabayanja
