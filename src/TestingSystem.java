@@ -1,12 +1,13 @@
 /**
- * KabayanjaThereseFinalProject.java   
- * Program that defines the TestingSystem class that is the master controller and entry point (main method) in the Student Management System.
- * The TestingSystem class performs a full system check on all project classes and ensures data persistence even in the event of a system crash.
- * @author Kabayanja, Therese
- * @assignment CSCI 428 Final Project
- * @date April 26, 2026 
+ * Defines the TestingSystem class for the Student Management System.
+ * 
+ * The TestingSystem class serves as the main entry point of the application and coordinates the execution of system operations. 
+ * It performs validation and testing of core project components, initializes the management system,
+ * and ensures data persistence and secure shutdown procedures during execution.
+ * 
+ * Author: Therese Kabayanja
  */
-
+ 
 package studentManagementSystem;
 
 public class TestingSystem {
