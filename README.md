@@ -203,8 +203,8 @@ student-management-system-java/
 
 
 
-<a href="./diagrams/class_diagram.png">
-  <img src="./diagrams/class_diagram.png" alt="Class Diagram" width="1200"/>
+<a href="./diagrams/class_diagram.svg">
+  <img src="./diagrams/class_diagram.svg" alt="Class Diagram" width="1200"/>
 </a>
 
 
@@ -215,12 +215,9 @@ student-management-system-java/
 
 ## Management System Flowchart
 
-
-
-<a href="./diagrams/management_system_flowchart.png">
-  <img src="./diagrams/management_system_flowchart.png" alt="Management System Flowchart" width="1200"/>
+<a href="./diagrams/management_system_flowchart.svg">
+  <img src="./diagrams/management_system_flowchart.svg" alt="Management System Flowchart" width="1200"/>
 </a>
-
 
 
 ---
