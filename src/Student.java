@@ -1,5 +1,6 @@
 /**
  * Defines the Student class for the Student Management System.
+ *
  * The Student class extends the abstract User class and represents the academic profile of a student within the system. 
  * It stores academic information, participation records, and a collection of enrolled Course objects.
  * The class utilizes the List interface with an ArrayList implementation to provide flexible and efficient course management operations.
