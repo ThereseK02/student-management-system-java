@@ -1,11 +1,9 @@
 /**
- * KabayanjaThereseFinalProject.java   
- * Program that defines the class Admin of the Student Management System. Admin is a subclass of User class.
- * Class Admin extends the abstract class User in the system. Admin class predicts GPA and provides student performance report, 
- * acting as an academic analyst. Indeed, Admin class combines statistical regression with human-readable performance reporting. 
- * @author Kabayanja, Therese
- * @assignment CSCI 428 Final Project
- * @date April 26, 2026 
+ * Defines the Admin role for the Student Management System.
+ *
+ * The Admin class extends User and provides academic analytics features, including GPA forecasting and student performance reporting.
+ *
+ * Author: Therese Kabayanja
  */
 
 package studentManagementSystem;

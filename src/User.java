@@ -1,12 +1,12 @@
 
 /**
- * KabayanjaThereseFinalProject.java   
- * Program that defines the abstract class User in the Student Management System. 
- * This class User that has two subclasses (Student and Adm) in this system implements 
- * the interface Authenticatable method, and naturally ensures encapsulation in Java. 
- * @author Kabayanja, Therese
- * @assignment CSCI 428 Final Project
- * @date April 26, 2026 
+ * Defines the abstract User class for the Student Management System.
+ * 
+ * The User class serves as the foundational abstraction for all system users, including Student and Admin subclasses. 
+ * It implements the Authenticatable interface to provide authentication functionality while enforcing encapsulation
+ * through controlled access to user credentials and account information.
+ * 
+ * Author: Therese Kabayanja
  */
 
 package studentManagementSystem;

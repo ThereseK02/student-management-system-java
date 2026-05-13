@@ -1,10 +1,10 @@
 /**
- * KabayanjaThereseFinalProject.java   
- * Program that defines the class Course that represents an individual academic subject. 
- * The class Course provides the Credit Hour data to calculate tuition. 
- * @author Kabayanja, Therese
- * @assignment CSCI 428 Final Project
- * @date April 26, 2026 
+ * Defines the Course class for the Student Management System.
+ *
+ * The Course class represents an academic subject within the system and stores course-related information such as course name and credit hours. 
+ * Credit hour data is used in tuition calculation and academic management operations.
+ *
+ * Author: Therese Kabayanja
  */
 
 package studentManagementSystem;

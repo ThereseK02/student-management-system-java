@@ -1,11 +1,11 @@
 /**
- * KabayanjaThereseFinalProject.java   
- * Program that defines the controller class ManagementSystem, which manages the user database, 
- * calculates tuition, handles file I/O operations, and provides the core logic for both 
- * the JavaFX GUI and the console application.
- * @author Kabayanja, Therese
- * @assignment CSCI 428 Final Project
- * @date April 26, 2026 
+ * Defines the ManagementSystem controller class for the Student Management System.
+ *
+ * The ManagementSystem class serves as the core controller of the application, managing user data, tuition calculation, file input/output operations, 
+ * and overall system functionality. It coordinates both console-based interactions 
+ * and JavaFX graphical interface operations within the system.
+ *
+ * Author: Therese Kabayanja
  */
 
 package studentManagementSystem;
@@ -14,7 +14,7 @@ import java.util.*;
 import java.io.*;
 
 public class ManagementSystem {
-		// Field/Attributes involve polymorphic list storing both Students and Admins:
+		// Field/Attributes involve a polymorphic list storing both Students and Admins:
 		// Combining tuition calculation, categorical analysis, and File I/O.
 	    
 	private List<User> userList = new ArrayList<>();
