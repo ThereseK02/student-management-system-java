@@ -1,11 +1,9 @@
 /**
- * KabayanjaThereseFinalProject.java   
- * Program that defines the class Student of the Student Management System. Student is a subclass of User class.
- * Class Student extends the abstract class User in the system. Student class holds academic data and a collection of Course objects.
- * Student class represents the "Academic Record" of a student. We use a List interface with an ArrayList implementation for flexibility.
- * @author Kabayanja, Therese
- * @assignment CSCI 428 Final Project
- * @date April 26, 2026 
+ * Defines the Student class for the Student Management System.
+ * The Student class extends the abstract User class and represents the academic profile of a student within the system. 
+ * It stores academic information, participation records, and a collection of enrolled Course objects.
+ * The class utilizes the List interface with an ArrayList implementation to provide flexible and efficient course management operations.
+ * Author: Therese Kabayanja
  */
 
 package studentManagementSystem;
