@@ -203,7 +203,9 @@ student-management-system-java/
 
 
 
-![Class Diagram](./diagrams/class_diagram.png)
+<a href="./diagrams/class_diagram.png">
+  <img src="./diagrams/class_diagram.png" alt="Class Diagram" width="1200"/>
+</a>
 
 
 
@@ -215,7 +217,9 @@ student-management-system-java/
 
 
 
-![Management System Flowchart](./diagrams/management_system_flowchart.png)
+<a href="./diagrams/management_system_flowchart.png">
+  <img src="./diagrams/management_system_flowchart.png" alt="Management System Flowchart" width="1200"/>
+</a>
 
 
 
