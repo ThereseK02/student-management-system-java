@@ -53,7 +53,7 @@ The application manages students, courses, GPA calculations, tuition updates, an
 
 ---
 
-## System Flowchart
+## Management System Flowchart
 
 [View SVG Version](diagrams/management_system_flowchart.svg)
 
