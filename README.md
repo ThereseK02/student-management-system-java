@@ -26,7 +26,25 @@ The application manages students, courses, GPA calculations, tuition updates, an
 - Flowchart Modeling
 
 ---
+## Application Screenshots
 
+### Console Output 1
+
+![Console Output 1](screenshots/console_output1.png)
+
+### Console Output 2
+
+![Console Output 2](screenshots/console_output2.png)
+
+### Console Output 3
+
+![Console Output 3](screenshots/console_output3.png)
+
+### Console Output 4
+
+![Console Output 4](screenshots/console_output4.png)
+
+---
 ## UML Class Diagram
 
 [View SVG Version](diagrams/class_diagram.svg)
