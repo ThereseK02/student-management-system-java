@@ -1,0 +1,2 @@
+STUDENT,Markus,pass123,4.0
+STUDENT,John,uijoy,0.0
