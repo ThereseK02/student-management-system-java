@@ -1,5 +1,6 @@
 /**
  * Defines the Course class for the Student Management System.
+ *
  * The Course class represents an academic subject within the system and stores course-related information such as course name and credit hours. 
  * Credit hour data is used in tuition calculation and academic management operations.
  *
