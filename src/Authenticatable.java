@@ -1,10 +1,8 @@
 /**
- * KabayanjaThereseFinalProject.java   
- * Program that defines the interface Authenticatable of the student management system. The interface defines 
- * the contract for any user that can log in. In this system, the abstract class User implements the Interface Authenticatable. 
- * @author Kabayanja, Therese
- * @assignment CSCI 428 Final Project
- * @date April 26, 2026 
+ * Defines the Authenticatable interface for the Student Management System.
+ * This interface establishes the authentication contract for users who are authorized to access the system. 
+ * The abstract User class implements this interface to provide login functionality across the application.
+ * Author: Therese Kabayanja
  */
 
 package studentManagementSystem;
