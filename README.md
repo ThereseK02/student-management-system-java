@@ -1,256 +1,103 @@
-# Student Management System Using Java
+# Student Management System (Java)
 
-
-
-## Project Overview
-
-
-
-This project is an object-oriented Student Management System developed in Java.  
-
-The system manages student information, course enrollment, tuition calculation, authentication, and academic analytics using modular software engineering principles.
-
-
-
-The project demonstrates:
-
-- object-oriented programming (OOP),
-
-- inheritance,
-
-- polymorphism,
-
-- abstraction,
-
-- interfaces,
-
-- file handling,
-
-- modular application design,
-
-- and console-based user interaction.
-
-
+A console-based Student Management System developed in Java using object-oriented programming principles.  
+The application manages students, courses, GPA calculations, tuition updates, and administrative operations.
 
 ---
-
-
 
 ## Features
 
-
-
 - Student registration and management
-
-- User authentication system
-
 - Course enrollment tracking
-
-- Tuition calculation
-
-- Academic performance analysis
-
-- File persistence using text files
-
-- Console-based menu interaction
-
+- GPA calculation
+- Tuition updates
 - Administrative controls
-
-
+- Data persistence using file storage
+- Console-based interactive menu system
 
 ---
-
-
 
 ## Technologies Used
 
-
-
 - Java
-
-- Eclipse IDE
-
 - Object-Oriented Programming (OOP)
-
 - File Handling
-
 - UML Design
-
-
-
----
-
-
-
-## Project Structure
-
-
-
-```text
-
-
-
-student-management-system-java/
-
-│
-
-├── src/
-
-│   └── studentManagementSystem/
-
-│       ├── Admin.java
-
-│       ├── Authenticatable.java
-
-│       ├── Course.java
-
-│       ├── ManagementSystem.java
-
-│       ├── Student.java
-
-│       ├── TestingSystem.java
-
-│       └── User.java
-
-│
-
-├── diagrams/
-
-│   ├── class_diagram.png
-
-│   └── management_system_flowchart.png
-
-│
-
-├── data/
-
-│   ├── student_database.txt
-
-│   └── system_results.txt
-
-│
-
-├── screenshots/
-
-│   ├── console_output1.png
-
-│   ├── console_output2.png
-
-│   ├── console_output3.png
-
-│   └── console_output4.png
-
-│
-
-├── README.md
-
-└── .gitignore
-
-
-
-```
-
-
+- Flowchart Modeling
 
 ---
-
-
-
-## Console Output Screenshots
-
-
-
-### Console Output 1
-
-
-
-![Console Output 1](./screenshots/console_output1.png)
-
-
-
-### Console Output 2
-
-
-
-![Console Output 2](./screenshots/console_output2.png)
-
-
-
-### Console Output 3
-
-
-
-![Console Output 3](./screenshots/console_output3.png)
-
-
-
-### Console Output 4
-
-
-
-![Console Output 4](./screenshots/console_output4.png)
-
-
-
----
-
----
-
-
-
 
 ## UML Class Diagram
 
+[View SVG Version](diagrams/class_diagram.svg)
 
-
-<a href="./diagrams/class_diagram.svg">
-  <img src="./diagrams/class_diagram.svg" alt="Class Diagram" width="1200"/>
-</a>
-
-
+![Class Diagram](diagrams/class_diagram.png)
 
 ---
 
+## System Flowchart
 
+[View SVG Version](diagrams/management_system_flowchart.svg)
 
-## Management System Flowchart
-
-<a href="./diagrams/management_system_flowchart.svg">
-  <img src="./diagrams/management_system_flowchart.svg" alt="Management System Flowchart" width="1200"/>
-</a>
-
+![System Flowchart](diagrams/management_system_flowchart.png)
 
 ---
 
+## Project Structure
 
+```text
+src/
+├── Admin.java
+├── Student.java
+├── Course.java
+├── User.java
+├── Authentication.java
+├── ManagementSystem.java
+└── TestingSystem.java
 
-## Future Improvements
-
-
-
-Potential future improvements include:
-
-- graphical user interface (GUI),
-
-- database integration,
-
-- role-based access control,
-
-- advanced analytics,
-
-- and AI-enhanced student performance prediction.
-
-
+diagrams/
+├── class_diagram.png
+├── class_diagram.svg
+├── management_system_flowchart.png
+└── management_system_flowchart.svg
+```
 
 ---
 
+## How to Run
 
+### Compile
+
+```bash
+javac src/*.java
+```
+
+### Run
+
+```bash
+java src/TestingSystem
+```
+
+---
+
+## Learning Outcomes
+
+This project demonstrates:
+
+- Object-oriented design
+- UML modeling
+- Software architecture documentation
+- Java collections usage
+- File handling and persistence
+- Console application development
+
+---
 
 ## Author
 
-
-
 Therese Kabayanja  
+Machine Learning Engineer | Data Scientist | Software Engineer
 
-Machine Learning Engineer | Data Science | Software Development
+
+
 
