@@ -1,5 +1,6 @@
 /**
  * Defines the ManagementSystem controller class for the Student Management System.
+ *
  * The ManagementSystem class serves as the core controller of the application, managing user data, tuition calculation, file input/output operations, 
  * and overall system functionality. It coordinates both console-based interactions 
  * and JavaFX graphical interface operations within the system.
