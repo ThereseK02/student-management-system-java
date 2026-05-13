@@ -1,8 +1,8 @@
-\# Student Management System Using Java
+# Student Management System Using Java
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -14,75 +14,75 @@ The system manages student information, course enrollment, tuition calculation, 
 
 The project demonstrates:
 
-\- object-oriented programming (OOP),
+- object-oriented programming (OOP),
 
-\- inheritance,
+- inheritance,
 
-\- polymorphism,
+- polymorphism,
 
-\- abstraction,
+- abstraction,
 
-\- interfaces,
+- interfaces,
 
-\- file handling,
+- file handling,
 
-\- modular application design,
+- modular application design,
 
-\- and console-based user interaction.
-
-
-
-\---
+- and console-based user interaction.
 
 
 
-\## Features
+---
 
 
 
-\- Student registration and management
-
-\- User authentication system
-
-\- Course enrollment tracking
-
-\- Tuition calculation
-
-\- Academic performance analysis
-
-\- File persistence using text files
-
-\- Console-based menu interaction
-
-\- Administrative controls
+## Features
 
 
 
-\---
+- Student registration and management
+
+- User authentication system
+
+- Course enrollment tracking
+
+- Tuition calculation
+
+- Academic performance analysis
+
+- File persistence using text files
+
+- Console-based menu interaction
+
+- Administrative controls
 
 
 
-\## Technologies Used
+---
 
 
 
-\- Java
-
-\- Eclipse IDE
-
-\- Object-Oriented Programming (OOP)
-
-\- File Handling
-
-\- UML Design
+## Technologies Used
 
 
 
-\---
+- Java
+
+- Eclipse IDE
+
+- Object-Oriented Programming (OOP)
+
+- File Handling
+
+- UML Design
 
 
 
-\## Project Structure
+---
+
+
+
+## Project Structure
 
 
 
@@ -116,29 +116,29 @@ student-management-system-java/
 
 ├── diagrams/
 
-│   ├── class\_diagram.png
+│   ├── class_diagram.png
 
-│   └── management\_system\_flowchart.png
+│   └── management_system_flowchart.png
 
 │
 
 ├── data/
 
-│   ├── student\_database.txt
+│   ├── student_database.txt
 
-│   └── system\_results.txt
+│   └── system_results.txt
 
 │
 
 ├── screenshots/
 
-│   ├── console\_output1.png
+│   ├── console_output1.png
 
-│   ├── console\_output2.png
+│   ├── console_output2.png
 
-│   ├── console\_output3.png
+│   ├── console_output3.png
 
-│   └── console\_output4.png
+│   └── console_output4.png
 
 │
 
@@ -150,57 +150,57 @@ student-management-system-java/
 
 ```
 
-\---
+---
 
 
 
-\## UML Class Diagram
+## UML Class Diagram
 
 
 
-!\[Class Diagram](./diagrams/class\_diagram.png)
+![Class Diagram](./diagrams/class_diagram.png)
 
 
 
-\---
+---
 
 
 
-\## Management System Flowchart
+## Management System Flowchart
 
 
 
-!\[Management System Flowchart](./diagrams/management\_system\_flowchart.png)
+![Management System Flowchart](./diagrams/management_system_flowchart.png)
 
 
 
-\---
+---
 
 
 
-\## Future Improvements
+## Future Improvements
 
 
 
 Potential future improvements include:
 
-\- graphical user interface (GUI),
+- graphical user interface (GUI),
 
-\- database integration,
+- database integration,
 
-\- role-based access control,
+- role-based access control,
 
-\- advanced analytics,
+- advanced analytics,
 
-\- and AI-enhanced student performance prediction.
-
-
-
-\---
+- and AI-enhanced student performance prediction.
 
 
 
-\## Author
+---
+
+
+
+## Author
 
 
 
